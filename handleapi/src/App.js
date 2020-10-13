@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react';
 import {Container, Row, Col, Card} from 'reactstrap';
 import "bootstrap/dist/css/bootstrap.min.css";
 import Axios from 'axios';
-import MyCard from './Card';
+import MyCard from './MyCard';
 import './App.css';
 
 function App() {
